@@ -20,7 +20,7 @@ It combines **domain-driven feature engineering (WOE & IV)** with machine learni
 ## 🌐 Live Demo
 
 🚀 Try the app:
-👉 ![img_1.png](img_1.png)
+👉 https://codebasics-ml-project-credit-risk-score.streamlit.app/
 
 💡 Enter applicant details to predict the probability of loan default in real time.
 
